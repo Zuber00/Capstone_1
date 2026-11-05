@@ -36,4 +36,3 @@ The average Colorado EmporiUm revenue was **$356,257,35**. Two stores performed 
 - Review sales strategies at the 16 stores underperforming below the Colorado average.
 - Study the successful sales performance strategies from the 2 stores that are performing above the average.
 - Continue to monitor monthly revenue trends to identify growth opportunities.
-- Focus on improving performance across all 16 stores that are underperforming.
