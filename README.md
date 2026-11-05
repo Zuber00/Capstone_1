@@ -23,7 +23,7 @@ Colorado generated **$6,412,632.22** in revenue, while total online sales reache
 ### Question 4: Category Transaction Analysis
 Across 2022-2025, Technology and Accessories had the highest average transaction value, while books (General) had the lowest.
 ### Question 5: Colorado Store Revenue Rankings
-Store 705 ranked first in Colorado with **$917,471.53** in revenue, followed by Store 709 with **$640,358.11**. Store 705 was the highest performing location.
+Store 705 ranked first in Colorado with **$917,471.53** in revenue, followed by Store 709 with **$640,368.11**. Store 705 was the highest performing location.
 ### Question 6: Store Performance Compared to the Average
 The average Colorado EmporiUm revenue was **$356,257,35**. Two stores performed above average, while sixteen stores were below average.
 
