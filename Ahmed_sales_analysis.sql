@@ -4,11 +4,11 @@
 -- Region: West
 
 -- 1. What is total revenue overall for sales in the assigned territory, plus the start date and end date
---that tell you what period the data covers?
+-- that tell you what period the data covers?
 
 -- Total Rev for Jim Heck's Colorado Territory
 
-SELECT SUM(store_sales.Sale_Amount)
+SELECT SUM(store_sales.Sale_Amount) AS Total_Revenue
 FROM store_sales
 INNER JOIN store_locations
 ON store_locations.StoreId = store_sales.Store_ID
@@ -46,7 +46,7 @@ SELECT *
 FROM online_sales;
 
 -- SQL Main analysis: compare Colorado territory revenue with total online sales to evaluate the territory's contribution to west regional sales.
-SELECT SUM(online_sales.SalesTotal)
+SELECT SUM(online_sales.SalesTotal) AS Total_Online_Sales
 FROM online_sales
 -- Total_Rev for Online_stores = $68,004,827.05
 -- Entire Region sales: Colorado $6,412,632.22) + Online($68,004,827.05) = $74,417,459.27
@@ -85,7 +85,7 @@ GROUP BY inventory_categories.Category, Sales_Month, Sales_Year
 ORDER BY inventory_categories.Category, Sales_Year, Sales_Month ;
 
 -- 5. Can you provide a ranking of in-store sales performance by each store in the sales territory, or a
-ranking of online sales performance by state within an online sales territory? 
+-- ranking of online sales performance by state within an online sales territory? 
 SELECT DISTINCT StoreId
 FROM store_locations
 WHERE State = 'Colorado' ;
