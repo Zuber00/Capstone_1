@@ -108,6 +108,5 @@ INNER JOIN store_locations
 WHERE store_locations.State = 'Colorado'
 GROUP BY store_sales.Store_ID 
 ) AS Store_Rev
--- Recommendation: Prioritize stores 701, 703, 706, 707, 708, 710, and 716 because their revenue is below the average of $356,257,.35 for Colorado physical stores
+-- Recommendation: Prioritize stores the 16 under performing stores because their revenue is below the average of $356,257,.35 for Colorado physical stores
 -- AVG Colorado store revenue: $356,257.35
-
