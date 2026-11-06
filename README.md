@@ -21,7 +21,7 @@ Revenue increased each year, growing from **$1,011,355.52 in 2022** to **$2,421,
 ### Question 3: Colorado Revenue Compared to Online Sales
 Colorado generated **$6,412,632.22** in revenue, while total online sales reached **$68,004,827.05**. Online sales had a 10.6x in revenue over Colorado.
 ### Question 4: Category Transaction Analysis
-Across 2022-2025, Technology and Accessories had the highest average transaction value, while books (General) had the lowest.
+Across 2022-2025, Technology and Accessories had the highest average transaction value, while Stationary and Supplies had the lowest.
 ### Question 5: Colorado Store Revenue Rankings
 Store 705 ranked first in Colorado with **$917,471.53** in revenue, followed by Store 709 with **$640,368.11**. Store 705 was the highest performing location.
 ### Question 6: Store Performance Compared to the Average
